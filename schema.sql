@@ -1,0 +1,7 @@
+
+
+CREATE TABLE user (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    usr TEXT NOT NULL,
+    pwd TEXT NOT NULL
+);
